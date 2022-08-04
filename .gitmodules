@@ -1,0 +1,18 @@
+[submodule "html-css-basics-MeShootIn"]
+	path = html-css-basics-MeShootIn
+	url = https://github.com/MeShootIn/html-css-basics-MeShootIn
+[submodule "js-basics-MeShootIn"]
+	path = js-basics-MeShootIn
+	url = https://github.com/MeShootIn/js-basics-MeShootIn
+[submodule "js-functions-MeShootIn"]
+	path = js-functions-MeShootIn
+	url = https://github.com/MeShootIn/js-functions-MeShootIn
+[submodule "js-inheritance-MeShootIn"]
+	path = js-inheritance-MeShootIn
+	url = https://github.com/MeShootIn/js-inheritance-MeShootIn
+[submodule "react-project-MeShootIn"]
+	path = react-project-MeShootIn
+	url = https://github.com/MeShootIn/react-project-MeShootIn
+[submodule "html-css-practice-MeShootIn"]
+	path = html-css-practice-MeShootIn
+	url = https://github.com/MeShootIn/html-css-practice-MeShootIn
